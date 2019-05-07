@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "835169075930",
+    "firebase_url": "https://notify-64bd0.firebaseio.com",
+    "project_id": "notify-64bd0",
+    "storage_bucket": "notify-64bd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835169075930:android:14b53da5c12ba72f",
+        "android_client_info": {
+          "package_name": "notify.projects.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835169075930-h340so4jvs6lbnfaiu46i9vj2q9dg5ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgwopzA4vlQHflKjGmbGKxDirU_VDXbHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835169075930:android:385cbbeef8f2e983",
+        "android_client_info": {
+          "package_name": "xyz.nokturnal.barka.privateeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835169075930-ikkul23rg6f99jiot1edtlambnvjpaap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.nokturnal.barka.privateeye",
+            "certificate_hash": "1740681cedbe501c8a5e039b8c71e27efb719ef0"
+          }
+        },
+        {
+          "client_id": "835169075930-h340so4jvs6lbnfaiu46i9vj2q9dg5ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgwopzA4vlQHflKjGmbGKxDirU_VDXbHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835169075930-h340so4jvs6lbnfaiu46i9vj2q9dg5ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
